@@ -87,7 +87,5 @@ I pay attention to Accessibility, User-friendliness and Responsiveness of websit
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dreywesson&show_icons=true&theme=dark)
 
-📊 **This Week I Spent My Time On:**
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
