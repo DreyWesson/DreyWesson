@@ -1,17 +1,18 @@
 ### Hi there 👋, I'm Oduwole Dare
 
-<a href="https://twitter.com/DreyWesson">
-  <img align="left" alt="Oduwole Dare | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="margin-right:10px"/>
-</a> 
-<a href="https://www.linkedin.com/in/dare-oduwole73176/">
-  <img align="left" alt="Oduwloe's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="margin-right:10px"/>
-</a>
-<a href="mailto:dreywesson@gmail.com">
-  <img align="left" alt="Oduwloe's gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+<div>
+  <a href="https://twitter.com/DreyWesson">
+    <img align="left" alt="Oduwole Dare | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="margin-right:10px"/>
+  </a> 
+  <a href="https://www.linkedin.com/in/dare-oduwole73176/">
+    <img align="left" alt="Oduwloe's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="margin-right:10px"/>
+  </a>
+  <a href="mailto:dreywesson@gmail.com">
+    <img align="left" alt="Oduwloe's gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  </a>
+</div>
 
 <br />
-
 I am a self-taught Software Engineer, thats passionate about technologies that makes the world a better place. And very open to learning new interesting things
 
 I pay attention to Accessibility, User-friendliness and Responsiveness of websites
@@ -25,8 +26,6 @@ I pay attention to Accessibility, User-friendliness and Responsiveness of websit
 <p>👯 I’m looking to collaborate on anything interesting</p>
 <p>🤔 I’m looking for help with Backend Engineering</p>
 <p>⚡ Fun fact: I'm a minimalist and love walkable cities</p>
-
-<br />
 
 **Languages and Tools:**
 
@@ -86,39 +85,9 @@ I pay attention to Accessibility, User-friendliness and Responsiveness of websit
 
   <br />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dreywesson&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dreywesson&show_icons=true&theme=dark)
 
 📊 **This Week I Spent My Time On:**
 
-```text
-JavaScript   1 hr 9 mins     ███████▓░░░░░░░░░░░░░░░░░   30.26 %
-JSON         1 hr 1 min      ██████▓░░░░░░░░░░░░░░░░░░   26.73 %
-Markdown     55 mins         ██████░░░░░░░░░░░░░░░░░░░   24.19 %
-C++          29 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.68 %
-CSS          13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
-```
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.0%20million%20lines%20of%20code-blue)
-
-**I'm a Night 🦉**
-
-```text
-🌞 Morning    147 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.85%
-🌆 Daytime    613 commits    █████████░░░░░░░░░░░░░░░░   36.91%
-🌃 Evening    553 commits    ████████░░░░░░░░░░░░░░░░░   33.29%
-🌙 Night      348 commits    █████░░░░░░░░░░░░░░░░░░░░   20.95%
-
-```
-
-📅 **I'm Most Productive on Monday**
-
-```text
-Monday       771 commits    █████░░░░░░░░░░░░░░░░░░░░   22.34%
-Tuesday      276 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.62%
-Wednesday    297 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.88%
-Thursday     167 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.05%
-Friday       206 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.4%
-Saturday     193 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.62%
-Sunday       151 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
-
-```
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
