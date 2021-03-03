@@ -60,6 +60,9 @@ I pay attention to Accessibility, User-friendliness and Responsiveness of websit
   <img src="https://avatars.githubusercontent.com/u/44036562?s=400&v=4" alt="git actions" width="25" height="25" style="padding-bottom:7px;"/>
   <img src="https://cdn.worldvectorlogo.com/logos/json.svg" alt="json" width="25" height="25" style="padding-bottom:7px;"/>
   <img src="http://svgur.com/i/3m.svg" alt="json" width="25" height="25" style="padding-bottom:7px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/1200px-Neovim-mark.svg.png" alt="neovim" width="25" height="25" style="padding-bottom:7px;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="25" height="25" style="padding-bottom:7px;"/>
+
 
 </div>
 <br />
