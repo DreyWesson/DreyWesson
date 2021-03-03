@@ -1,6 +1,9 @@
 ### Hi there 👋, I'm Oduwole Dare
 
 <div>
+  <a href="https://dreywesson.netlify.app">
+    <img align="left" alt="portfolio" width="22px" src="https://www.svgrepo.com/show/143710/link-button.svg" style="margin-right:10px"/>
+  </a>
   <a href="https://twitter.com/DreyWesson">
     <img align="left" alt="Oduwole Dare | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="margin-right:10px"/>
   </a> 
@@ -8,17 +11,18 @@
     <img align="left" alt="Oduwloe's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="margin-right:10px"/>
   </a>
   <a href="mailto:dreywesson@gmail.com">
-    <img align="left" alt="Oduwloe's gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+    <img align="left" alt="Oduwloe's gmail" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" style="margin-right:10px"/>
   </a>
+
 </div>
 
 <br />
 <br />
-I am a self-taught Software Engineer, thats passionate about technologies that makes the world a better place. And very open to learning new interesting things
+I am a self-taught Software Engineer, that's passionate about technologies that makes the world a better place. Also, I'm very open to learning new interesting things
 
 I pay attention to Accessibility, User-friendliness and Responsiveness of websites
 
-<img align="left" alt="GIF" src="https://github.com/dreywesson/dreywesson/blob/media/readme.gif?raw=true" width="400" height="auto" style="margin: 10px;"/>
+<img align="right" alt="GIF" src="https://github.com/dreywesson/dreywesson/blob/media/readme.gif?raw=true" width="400" height="auto" style="margin: 10px;"/>
 
 <br />
 
@@ -49,19 +53,10 @@ I pay attention to Accessibility, User-friendliness and Responsiveness of websit
   <img src="https://material-ui.com/static/logo.png" alt="material-ui" width="25" height="25" />
   <img src="https://cdn.iconscout.com/icon/free/png-512/webpack-1-1174980.png" alt="webpack" width="25" height="25" />
   <img src="https://icons.iconarchive.com/icons/froyoshark/enkel/512/iTerm-icon.png" alt="iTerm" width="25" height="25" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="stackoverflow" width="25" height="25" />
+  <img src="https://www.tomsquest.com/img/posts/2018-10-02-better-npm-ing/npm_logo.png" alt="npm" width="25" height="25" />
 </div>
-
 <br />
-
-**Learn soon:**
-
-<div style="display: flex; ">
-    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" style="margin-right: 7px;"/>
-    <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" style="margin-right: 7px;"/>
-    <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" style="margin-right: 7px;"/>
-  </div>
-
-  <br />
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dreywesson&show_icons=true&theme=dark)
 
