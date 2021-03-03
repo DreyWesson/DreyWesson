@@ -8,7 +8,8 @@
 </a>
 <a href="mailto:dreywesson@gmail.com">
   <img align="left" alt="Oduwloe's gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>  
+</a>
+
 <br />
 
 I am a self-taught Software Engineer, thats passionate about technologies that makes the world a better place. And very open to learning new interesting things
@@ -16,6 +17,8 @@ I am a self-taught Software Engineer, thats passionate about technologies that m
 I pay attention to Accessibility, User-friendliness and Responsiveness of websites
 
 <img align="left" alt="GIF" src="https://github.com/dreywesson/dreywesson/blob/media/readme.gif?raw=true" width="400" height="auto" style="margin: 10px;"/>
+
+<br />
 
 <p>🔭 I’m currently working on React Projects</p>
 <p>🌱 I’m currently learning Vim, Docker & Kubernetes</p>
@@ -50,6 +53,8 @@ I pay attention to Accessibility, User-friendliness and Responsiveness of websit
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
+  <!-- <img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/firebase.svg" />
+  <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/kubernetes.svg" /> -->
 </div>
 <!-- <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
