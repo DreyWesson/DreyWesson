@@ -17,11 +17,11 @@ I pay attention to Accessibility, User-friendliness and Responsiveness of websit
 
 <img align="left" alt="GIF" src="https://github.com/dreywesson/dreywesson/blob/media/readme.gif?raw=true" width="400" height="auto" style="margin: 10px;"/>
 
-🔭 I’m currently working on React Projects
-🌱 I’m currently learning Vim, Docker & Kubernetes
-👯 I’m looking to collaborate on anything interesting
-🤔 I’m looking for help with Backend Engineering
-⚡ Fun fact: I'm a minimalist and love walkable cities
+<p>🔭 I’m currently working on React Projects</p>
+<p>🌱 I’m currently learning Vim, Docker & Kubernetes</p>
+<p>👯 I’m looking to collaborate on anything interesting</p>
+<p>🤔 I’m looking for help with Backend Engineering</p>
+<p>⚡ Fun fact: I'm a minimalist and love walkable cities</p>
 
 **Languages and Tools:**
 
