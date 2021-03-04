@@ -22,13 +22,12 @@ I am a self-taught Software Engineer, that's passionate about technologies that 
 
 I pay attention to Accessibility, User-friendliness and Responsiveness of websites.
 
-<img align="left"  alt="GIF" src="https://github.com/dreywesson/dreywesson/blob/media/devguy3.gif?raw=true" width="400" height="auto" />
+<img align="left"  alt="GIF" src="https://github.com/dreywesson/dreywesson/blob/media/devguy3.gif?raw=true" width="400" height="auto" loop=infinite/>
 
 <div align="left" style="display:flex; flex-wrap:wrap; min-width: 250px;">
 <div>
   <p>🔭 I’m currently working on React Projects.</p>
   <p>🌱 I’m currently learning Vim, Docker & Kubernetes.</p>
-
   <p>👯 I’m looking to collaborate on anything interesting.</p>
   <p>🎉 Fun fact: I'm a minimalist and love walkable cities.</p>
 </div>
