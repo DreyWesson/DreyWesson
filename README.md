@@ -37,7 +37,7 @@ I pay attention to Accessibility, User-friendliness and Responsiveness of websit
 
 **Languages and Tools:**
 
-<div align="right" style="display: flex; flex-wrap: wrap; min-width:300px;">
+<div align="left" style="display: flex; flex-wrap: wrap; min-width:300px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
   <img src="https://img.icons8.com/color/240/000000/redux.png" alt="redux" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
