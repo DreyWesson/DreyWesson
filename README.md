@@ -27,7 +27,7 @@ I pay attention to Accessibility, User-friendliness and Responsiveness of websit
     <p>🔭 I’m currently working on React Projects.</p>
     <p>🌱 I’m currently learning Vim, Docker & Kubernetes.</p>
   </div>
-  <div style="max-width: 350px">
+  <div style="max-width: 300px">
     <p>👯 I’m looking to collaborate on anything interesting.</p>
     <p>🎉 Fun fact: I'm a minimalist and love walkable cities.</p>
   </div>
