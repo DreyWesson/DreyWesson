@@ -34,11 +34,10 @@ I pay attention to Accessibility, User-friendliness and Responsiveness of websit
   <p>🎉 Fun fact: I'm a minimalist and love walkable cities.</p>
 </div>
 </div>
-<br />
 
 **Languages and Tools:**
 
-<div style="display: flex; flex-wrap: wrap; min-width:300px">
+<div align="right" style="display: flex; flex-wrap: wrap; min-width:300px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
   <img src="https://img.icons8.com/color/240/000000/redux.png" alt="redux" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
@@ -68,7 +67,11 @@ I pay attention to Accessibility, User-friendliness and Responsiveness of websit
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
 </div>
 
+<div align="right">
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dreywesson&show_icons=true&theme=dark)
+
+</div>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
