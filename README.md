@@ -22,24 +22,23 @@ I am a self-taught Software Engineer, that's passionate about technologies that 
 
 I pay attention to Accessibility, User-friendliness and Responsiveness of websites.
 
-<div style="display:flex; justify-content:space-around;">
-  <div style="max-width: 250px">
-    <p>🔭 I’m currently working on React Projects.</p>
-    <p>🌱 I’m currently learning Vim, Docker & Kubernetes.</p>
-  </div>
-  <div style="max-width: 250px">
-    <p>👯 I’m looking to collaborate on anything interesting.</p>
-    <p>🎉 Fun fact: I'm a minimalist and love walkable cities.</p>
-  </div>
-</div>
-
-<br />
-<img align="left" alt="GIF" src="https://github.com/dreywesson/dreywesson/blob/media/devguy3.gif?raw=true" width="400" height="auto" style="-webkit-transform: scaleX(-1);
+<img align="left"  alt="GIF" src="https://github.com/dreywesson/dreywesson/blob/media/devguy3.gif?raw=true" width="400" height="auto" style="  -webkit-transform: scaleX(-1);
   transform: scaleX(-1);"/>
+
+<div align="left" style="display:flex; flex-wrap:wrap; min-width: 250px;">
+<div>
+  <p>🔭 I’m currently working on React Projects.</p>
+  <p>🌱 I’m currently learning Vim, Docker & Kubernetes.</p>
+
+  <p>👯 I’m looking to collaborate on anything interesting.</p>
+  <p>🎉 Fun fact: I'm a minimalist and love walkable cities.</p>
+</div>
+</div>
+<br />
 
 **Languages and Tools:**
 
-<div align="left" style="display: flex; flex-wrap: wrap; flex:1;">
+<div style="display: flex; flex-wrap: wrap; min-width:300px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
   <img src="https://img.icons8.com/color/240/000000/redux.png" alt="redux" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
