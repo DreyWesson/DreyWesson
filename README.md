@@ -23,11 +23,11 @@ I am a self-taught Software Engineer, that's passionate about technologies that 
 I pay attention to Accessibility, User-friendliness and Responsiveness of websites.
 
 <div style="display:flex; justify-content:space-around;">
-  <div style="max-width: 300px">
+  <div style="max-width: 250px">
     <p>🔭 I’m currently working on React Projects.</p>
     <p>🌱 I’m currently learning Vim, Docker & Kubernetes.</p>
   </div>
-  <div style="max-width: 300px">
+  <div style="max-width: 250px">
     <p>👯 I’m looking to collaborate on anything interesting.</p>
     <p>🎉 Fun fact: I'm a minimalist and love walkable cities.</p>
   </div>
