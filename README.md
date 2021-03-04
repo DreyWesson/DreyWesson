@@ -22,8 +22,8 @@ I am a self-taught Software Engineer, that's passionate about technologies that 
 
 I pay attention to Accessibility, User-friendliness and Responsiveness of websites.
 
-<div style="display:flex; justify-content:space-around; flex-wrap: wrap;">
-  <div style="max-width: 350px">
+<div style="display:flex; justify-content:space-around;">
+  <div style="max-width: 300px">
     <p>🔭 I’m currently working on React Projects.</p>
     <p>🌱 I’m currently learning Vim, Docker & Kubernetes.</p>
   </div>
