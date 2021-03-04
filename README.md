@@ -22,7 +22,7 @@ I am a self-taught Software Engineer, that's passionate about technologies that 
 
 I pay attention to Accessibility, User-friendliness and Responsiveness of websites.
 
-<img align="left"  alt="GIF" src="https://github.com/dreywesson/dreywesson/blob/media/devguy3.gif?raw=true" width="400" height="auto" loop=infinite/>
+<img align="left"  alt="GIF" src="https://github.com/dreywesson/dreywesson/blob/media/devguy.gif?raw=true" width="400" height="auto" loop=infinite/>
 
 <div align="left" style="display:flex; flex-wrap:wrap; min-width: 250px;">
 <div>
