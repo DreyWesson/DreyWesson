@@ -24,9 +24,8 @@ I pay attention to Accessibility, User-friendliness and Responsiveness of websit
 <img align="left"  alt="GIF" src="https://github.com/dreywesson/dreywesson/blob/media/devguy.gif?raw=true" width="400" height="auto" loop=infinite/>
 <div align="left" style="display:flex; flex-wrap:wrap; min-width: 250px;">
 <div>
-  <p>🔭 I’m currently working on React Projects.</p>
-  <p>🌱 I’m currently learning Vim, Docker & Kubernetes.</p>
-  <p>👯 I’m looking to collaborate on anything interesting.</p>
+  <!-- <p>🔭 I’m currently working on React Projects.</p> -->
+  <!-- <p>🌱 I’m currently learning Vim, Docker & Kubernetes.</p> -->
   <p>🎉 Fun fact: I'm a minimalist and love walkable cities.</p>
 </div>
 </div>
@@ -35,17 +34,14 @@ I pay attention to Accessibility, User-friendliness and Responsiveness of websit
 
 <div align="left" style="display: flex; flex-wrap: wrap; min-width:300px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
   <img src="https://cdn.iconscout.com/icon/free/png-512/webpack-1-1174980.png" alt="webpack" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
+
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
   <img src="https://material-ui.com/static/logo.png" alt="material-ui" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
-  <img src="https://avatars.githubusercontent.com/u/44036562?s=400&v=4" alt="git actions" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/1200px-Neovim-mark.svg.png" alt="neovim" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
   <img src="https://img.icons8.com/color/240/000000/redux.png" alt="redux" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
@@ -58,11 +54,21 @@ I pay attention to Accessibility, User-friendliness and Responsiveness of websit
   <img src="https://www.tomsquest.com/img/posts/2018-10-02-better-npm-ing/npm_logo.png" alt="npm" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
   <img src="https://img.icons8.com/color/240/000000/sass.png" alt="sass" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="stackoverflow" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
-  <img src="http://svgur.com/i/3m.svg" alt="json" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
   <img src="https://img.icons8.com/ios-glyphs/240/000000/github.png" alt="github" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Octicons-terminal.svg" alt="iTerm" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
   <img src="https://cdn.worldvectorlogo.com/logos/json.svg" alt="json" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
 </div>
+
+**In-view:**
+
+<div align="left" style="display: flex; flex-wrap: wrap; min-width:300px;"></div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
+  <img src="https://avatars.githubusercontent.com/u/44036562?s=400&v=4" alt="git actions" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
+  <img src="https://i.pinimg.com/originals/28/ec/74/28ec7440a57536eebad2931517aa1cce.png" alt="terraform" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
+  <img src="http://svgur.com/i/3m.svg" alt="yaml" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
+  <img src="https://pngimg.com/uploads/linux/linux_PNG1.png" alt="json" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Octicons-terminal.svg" alt="iTerm" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
 
 <div align="right">
 
