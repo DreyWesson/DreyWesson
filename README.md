@@ -60,7 +60,7 @@ I pay attention to Accessibility, User-friendliness and Responsiveness of websit
 
 **In-view:**
 
-<div align="left" style="display: flex; flex-wrap: wrap; min-width:300px;"></div>
+<div align="left" style="display: flex; flex-wrap: wrap; min-width:300px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
   <img src="https://avatars.githubusercontent.com/u/44036562?s=400&v=4" alt="git actions" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
@@ -69,6 +69,7 @@ I pay attention to Accessibility, User-friendliness and Responsiveness of websit
   <img src="http://svgur.com/i/3m.svg" alt="yaml" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
   <img src="https://pngimg.com/uploads/linux/linux_PNG1.png" alt="json" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Octicons-terminal.svg" alt="iTerm" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
+</div>
 
 <div align="right">
 
