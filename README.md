@@ -77,4 +77,8 @@ I pay attention to Accessibility, User-friendliness and Responsiveness of websit
 </div>
 
 <!--START_SECTION:waka-->
+```text
+Markdown   4 hrs 5 mins    ████████████████████████░   96.57 % 
+Text       8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+```
 <!--END_SECTION:waka-->
