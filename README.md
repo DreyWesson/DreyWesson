@@ -17,17 +17,16 @@
 
 <br />
 <br />
-I am a self-taught Software Engineer, that's passionate about technologies that makes the world a better place. Also, I'm very open to learning new interesting things.
 
-I pay attention to Accessibility, User-friendliness and Responsiveness of websites.
+<p>I am a self-taught Software Engineer, that's passionate about technologies that makes the world a better place. Also, I'm very open to learning new interesting things.
+
+I pay attention to Accessibility, User-friendliness and Responsiveness of websites.</p>
 
 <img align="left"  alt="GIF" src="https://github.com/dreywesson/dreywesson/blob/media/devguy.gif?raw=true" width="400" height="auto" loop=infinite/>
 <div align="left" style="display:flex; flex-wrap:wrap; min-width: 250px;">
-<div>
-  <!-- <p>🔭 I’m currently working on React Projects.</p> -->
-  <!-- <p>🌱 I’m currently learning Vim, Docker & Kubernetes.</p> -->
-  <p>🎉 Fun fact: I'm a minimalist and love walkable cities.</p>
-</div>
+  <div>
+    <p>🎉 Fun fact: I'm a minimalist and love walkable cities.</p>
+  </div>
 </div>
 
 **Languages and Tools:**
@@ -36,7 +35,6 @@ I pay attention to Accessibility, User-friendliness and Responsiveness of websit
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
   <img src="https://cdn.iconscout.com/icon/free/png-512/webpack-1-1174980.png" alt="webpack" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
-
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
   <img src="https://material-ui.com/static/logo.png" alt="material-ui" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/1200px-Neovim-mark.svg.png" alt="neovim" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
@@ -67,8 +65,9 @@ I pay attention to Accessibility, User-friendliness and Responsiveness of websit
   <img src="https://i.pinimg.com/originals/28/ec/74/28ec7440a57536eebad2931517aa1cce.png" alt="terraform" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
   <img src="http://svgur.com/i/3m.svg" alt="yaml" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
-  <img src="https://pngimg.com/uploads/linux/linux_PNG1.png" alt="json" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Octicons-terminal.svg" alt="iTerm" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
+  <img src="https://pngimg.com/uploads/linux/linux_PNG1.png" alt="json" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
+  <!-- Graphql, nextjs, styled-component -->
 </div>
 
 <div align="right">
