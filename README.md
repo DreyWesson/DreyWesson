@@ -78,10 +78,10 @@ I pay attention to Accessibility, User-friendliness and Responsiveness of websit
 
 <!--START_SECTION:waka-->
 ```text
-Other        7 hrs 4 mins    ███████████▒░░░░░░░░░░░░░   44.83 % 
-YAML         2 hrs 39 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.79 % 
-Makefile     2 hrs 5 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-Docker       1 hr 47 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-JavaScript   1 hr 18 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+JavaScript   11 hrs 8 mins   ██████████████░░░░░░░░░░░   55.89 % 
+Other        4 hrs 18 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.57 % 
+Makefile     1 hr 42 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+Docker       1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+JSON         49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
 ```
 <!--END_SECTION:waka-->
