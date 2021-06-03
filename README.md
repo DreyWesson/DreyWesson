@@ -78,8 +78,8 @@ I pay attention to Accessibility, User-friendliness and Responsiveness of websit
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   13 hrs 54 mins  █████████████████░░░░░░░░   67.91 % 
-CSS          6 hrs 26 mins   ████████░░░░░░░░░░░░░░░░░   31.40 % 
-HTML         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+JavaScript   16 hrs 26 mins  ████████████████▒░░░░░░░░   65.05 % 
+CSS          8 hrs 41 mins   ████████▓░░░░░░░░░░░░░░░░   34.38 % 
+HTML         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 ```
 <!--END_SECTION:waka-->
