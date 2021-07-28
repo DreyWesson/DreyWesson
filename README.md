@@ -18,11 +18,20 @@
 <br />
 <br />
 
-<p>I am a self-taught Software Engineer, that's passionate about technologies that makes the world a better place. Also, I'm very open to learning new interesting things.
+<p>
+  I am a self-taught Software Engineer, that's passionate about technologies that makes the world a better place. Also, I'm very open to learning new interesting things.
 
 I pay attention to Accessibility, Best Practices User-friendliness, Performance and Responsiveness of websites.
 
-🎉 Fun fact: I'm a minimalist and love walkable cities.</p>
+</p>
+<p>
+🎉 Fun facts: 
+<br/>🕊 I'm a minimalist 
+<br/>🚴🏽 I love walkable cities.
+<br/>🏝 I love nature
+<br/>🇳🇴 Favourite country is Norway
+
+</p>
 
 <div class="stacks">
   <img align="left"  alt="GIF" src="https://user-images.githubusercontent.com/50960013/127277181-3871659d-6d90-409e-b6a9-b8279a391430.gif" width="250" style='border-radius: 25px' height="auto" loop=infinite  />
