@@ -2,10 +2,10 @@
 
 <div>
   <a href="https://dreywesson.netlify.app">
-    <img align="left" alt="portfolio" width="22px" src="https://user-images.githubusercontent.com/50960013/127302754-ca427b8b-9c64-4cf3-b7a1-1a8ca6d10bc6.png" style="margin-right:0px, background-color: white;"/>
+    <img align="left" alt="portfolio" width="22px" src="https://user-images.githubusercontent.com/50960013/127302754-ca427b8b-9c64-4cf3-b7a1-1a8ca6d10bc6.png" style="margin-right:10px; background-color: white;"/>
   </a>
   <a href="https://twitter.com/DreyWesson">
-    <img align="left" alt="Oduwole Dare | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="margin:0 10px"/>
+    <img align="left" alt="Oduwole Dare | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="margin-right:10px;"/>
   </a> 
   <a href="https://www.linkedin.com/in/dare-oduwole73176/">
     <img align="left" alt="Oduwole's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="margin-right:10px"/>
@@ -82,12 +82,14 @@ I pay attention to Accessibility, Best Practices User-friendliness, Performance 
 </div>
 
 <!--START_SECTION:waka-->
+
 ```text
-JavaScript   15 hrs 15 mins  ████████████████████████▓   98.59 % 
-JSON         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+JavaScript   15 hrs 15 mins  ████████████████████████▓   98.59 %
+JSON         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
+
 <!--END_SECTION:waka-->
 
 </div>
