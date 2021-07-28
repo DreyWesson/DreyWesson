@@ -1,42 +1,5 @@
 ### Hi there 👋, I'm Oduwole Dare
 
-<style>
-  .metrics{
-    margin-top: 1rem; 
-    display: flex;
-  }
-
-  .stacks {
-    display: flex;
-    flex-direction: row;
-    align-items: center
-  }
-  .image {
-    object-fit: contain; 
-    border-radius: 20%; 
-    margin-right:15px;
-    width: 250;
-    height: 230;
-  }
-  @media (max-width: 650px) {
-    .metrics{
-      flex-direction: column
-    }
-    .stacks {
-      display: flex;
-      flex-direction: column
-    }
-  }
-    @media (max-width: 650px) {
-    .metrics{
-      flex-direction: column
-    }
-    .image {
-      width: 80%;
-      margin:0 auto;
-    }
-  }
-</style>
 <div>
   <a href="https://dreywesson.netlify.app">
     <img align="left" alt="portfolio" width="22px" src="https://www.svgrepo.com/show/143710/link-button.svg" style="margin-right:10px"/>
@@ -127,3 +90,41 @@ CSS          1 min           ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 </div>
+
+<style>
+  .metrics{
+    margin-top: 1rem; 
+    display: flex;
+  }
+
+  .stacks {
+    display: flex;
+    flex-direction: row;
+    align-items: center
+  }
+  .image {
+    object-fit: contain; 
+    border-radius: 20%; 
+    margin-right:15px;
+    width: 250;
+    height: 230;
+  }
+  @media (max-width: 650px) {
+    .metrics{
+      flex-direction: column
+    }
+    .stacks {
+      display: flex;
+      flex-direction: column
+    }
+  }
+    @media (max-width: 650px) {
+    .metrics{
+      flex-direction: column
+    }
+    .image {
+      width: 80%;
+      margin:0 auto;
+    }
+  }
+</style>
