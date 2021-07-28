@@ -22,7 +22,7 @@
 
 I pay attention to Accessibility, User-friendliness and Responsiveness of websites.</p>
 
-<img align="left"  alt="GIF" src="https://github.com/dreywesson/dreywesson/blob/media/devguy.gif?raw=true" width="400" height="auto" loop=infinite/>
+<img align="left"  alt="GIF" src="https://user-images.githubusercontent.com/50960013/127277181-3871659d-6d90-409e-b6a9-b8279a391430.gif" width="400" height="auto" loop=infinite/>
 <div align="left" style="display:flex; flex-wrap:wrap; min-width: 250px;">
   <div>
     <p>🎉 Fun fact: I'm a minimalist and love walkable cities.</p>
