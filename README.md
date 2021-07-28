@@ -74,7 +74,7 @@ I pay attention to Accessibility, Best Practices User-friendliness, Performance 
 </div>
 </div>
 <div class='metrics'>
-<div style="margin-right: 15px">
+<div style="margin-right: 15px margin-bottom: 3rem">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dreywesson&show_icons=true&theme=dark)
 
@@ -89,7 +89,7 @@ CSS          1 min           ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 </div>
 
-<style style='display: none;'>
+<style>
   .metrics{
     margin-top: 1rem; 
     display: flex;
