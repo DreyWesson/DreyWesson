@@ -24,23 +24,25 @@
 I pay attention to Accessibility, Best Practices User-friendliness, Performance and Responsiveness of websites.
 
 </p>
-<p>
+
+<div class="stacks">
+  <img align="left"  alt="GIF" src="https://user-images.githubusercontent.com/50960013/127277181-3871659d-6d90-409e-b6a9-b8279a391430.gif" width="250" style='border-radius: 25px; margin-bottom: .5rem' height="auto" loop=infinite  />
+
+<p style="margin-bottom: 3rem">
 🎉 Fun facts: 
 <br/>🕊 I'm a minimalist 
 <br/>🚴🏽 I love walkable cities.
 <br/>🏝 I love nature
 <br/>🇳🇴 Favourite country is Norway
-
 </p>
-
-<div class="stacks">
-  <img align="left"  alt="GIF" src="https://user-images.githubusercontent.com/50960013/127277181-3871659d-6d90-409e-b6a9-b8279a391430.gif" width="250" style='border-radius: 25px' height="auto" loop=infinite  />
+</div>
 
 <div  >
+<br/>
 
 **Languages and Tools:**
 
-  <div align="left" style="display: flex; flex-wrap: wrap; min-width:300px;">
+  <div  style="display: flex; flex-wrap: wrap; min-width:300px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
     <img src="https://cdn.iconscout.com/icon/free/png-512/webpack-1-1174980.png" alt="webpack" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
@@ -91,12 +93,14 @@ I pay attention to Accessibility, Best Practices User-friendliness, Performance 
 </div>
 
 <!--START_SECTION:waka-->
+
 ```text
-JavaScript   15 hrs 15 mins  ████████████████████████▓   98.59 % 
-JSON         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+JavaScript   15 hrs 15 mins  ████████████████████████▓   98.59 %
+JSON         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
+
 <!--END_SECTION:waka-->
 
 </div>
