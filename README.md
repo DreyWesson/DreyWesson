@@ -82,14 +82,12 @@ I pay attention to Accessibility, Best Practices User-friendliness, Performance 
 </div>
 
 <!--START_SECTION:waka-->
-
 ```text
-JavaScript   15 hrs 15 mins  ████████████████████████▓   98.59 %
-JSON         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
-CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+JavaScript   15 hrs 15 mins  ████████████████████████▓   98.59 % 
+JSON         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 ```
-
 <!--END_SECTION:waka-->
 
 </div>
