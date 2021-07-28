@@ -93,9 +93,9 @@ CSS          1 min           ░░░░░░░░░░░░░░░░░
 
 </div>
 
-<style>
+<!-- <style>
   .metrics{
-    margin-top: 1rem; 
+    margin-top: 1rem;
     display: flex;
   }
 
@@ -129,4 +129,4 @@ width: 80%;
 margin:0 auto;
 }
 }
-</style>
+</style> -->
