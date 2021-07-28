@@ -1,43 +1,3 @@
-<head>
-<style>
-  .metrics{
-    margin-top: 1rem; 
-    display: flex;
-  }
-
-.stacks {
-display: flex;
-flex-direction: row;
-align-items: center
-}
-.image {
-object-fit: contain;
-border-radius: 20%;
-margin-right:15px;
-width: 250;
-height: 230;
-}
-@media (max-width: 650px) {
-.metrics{
-flex-direction: column
-}
-.stacks {
-display: flex;
-flex-direction: column
-}
-}
-@media (max-width: 650px) {
-.metrics{
-flex-direction: column
-}
-.image {
-width: 80%;
-margin:0 auto;
-}
-}
-</style>
-
-</head>
 ### Hi there 👋, I'm Oduwole Dare
 
 <div>
@@ -48,10 +8,10 @@ margin:0 auto;
     <img align="left" alt="Oduwole Dare | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="margin-right:10px"/>
   </a> 
   <a href="https://www.linkedin.com/in/dare-oduwole73176/">
-    <img align="left" alt="Oduwloe's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="margin-right:10px"/>
+    <img align="left" alt="Oduwole's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="margin-right:10px"/>
   </a>
   <a href="mailto:dreywesson@gmail.com">
-    <img align="left" alt="Oduwloe's gmail" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" style="margin-right:10px"/>
+    <img align="left" alt="Oduwole's gmail" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" style="margin-right:10px"/>
   </a>
 </div>
 
@@ -128,3 +88,41 @@ CSS          1 min           ░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 </div>
+
+<style style='display: none;'>
+  .metrics{
+    margin-top: 1rem; 
+    display: flex;
+  }
+
+.stacks {
+display: flex;
+flex-direction: row;
+align-items: center
+}
+.image {
+object-fit: contain;
+border-radius: 20%;
+margin-right:15px;
+width: 250;
+height: 230;
+}
+@media (max-width: 650px) {
+.metrics{
+flex-direction: column
+}
+.stacks {
+display: flex;
+flex-direction: column
+}
+}
+@media (max-width: 650px) {
+.metrics{
+flex-direction: column
+}
+.image {
+width: 80%;
+margin:0 auto;
+}
+}
+</style>
