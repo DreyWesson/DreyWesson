@@ -25,7 +25,7 @@ I pay attention to Accessibility, Best Practices User-friendliness, Performance 
 🎉 Fun fact: I'm a minimalist and love walkable cities.</p>
 
 <div class="stacks">
-  <img align="left"  alt="GIF" src="https://user-images.githubusercontent.com/50960013/127277181-3871659d-6d90-409e-b6a9-b8279a391430.gif" width="250" class='image' height="auto" loop=infinite  />
+  <img align="left"  alt="GIF" src="https://user-images.githubusercontent.com/50960013/127277181-3871659d-6d90-409e-b6a9-b8279a391430.gif" width="250" style='border-radius: 25px' height="auto" loop=infinite  />
 
 <div>
 
@@ -81,12 +81,14 @@ I pay attention to Accessibility, Best Practices User-friendliness, Performance 
 </div>
 
 <!--START_SECTION:waka-->
+
 ```text
-JavaScript   15 hrs 15 mins  ████████████████████████▓   98.59 % 
-JSON         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+JavaScript   15 hrs 15 mins  ████████████████████████▓   98.59 %
+JSON         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
+
 <!--END_SECTION:waka-->
 
 </div>
