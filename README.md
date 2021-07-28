@@ -42,7 +42,7 @@ I pay attention to Accessibility, Best Practices User-friendliness, Performance 
 
 **Languages and Tools:**
 
-  <div  style="display: flex; flex-wrap: wrap; min-width:300px;">
+  <div align="right"  style="display: flex; flex-wrap: wrap; min-width:300px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
     <img src="https://cdn.iconscout.com/icon/free/png-512/webpack-1-1174980.png" alt="webpack" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
