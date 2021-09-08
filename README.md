@@ -94,11 +94,11 @@ I pay attention to Accessibility, Best Practices User-friendliness, Performance 
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   16 hrs 22 mins  ████████████████████▓░░░░   82.34 % 
-Other        1 hr 17 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-HTML         42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-YAML         29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-CSS          23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+JavaScript   10 hrs 45 mins  ████████████████████████░   96.47 % 
+JSON         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 ```
 <!--END_SECTION:waka-->
 
