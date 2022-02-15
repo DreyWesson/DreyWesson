@@ -94,7 +94,7 @@ I pay attention to Accessibility, Best Practices User-friendliness, Performance 
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Bash   34 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
