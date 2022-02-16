@@ -94,6 +94,8 @@ I pay attention to Accessibility, Best Practices User-friendliness, Performance 
 
 <!--START_SECTION:waka-->
 ```text
+Total: 34 mins
+
 Bash   34 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
