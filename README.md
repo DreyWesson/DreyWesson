@@ -93,9 +93,11 @@ I pay attention to Accessibility, Best Practices User-friendliness, Performance 
 </div>
 
 <!--START_SECTION:waka-->
+
 ```text
-Bash    1 hr 9 mins     █████████████████████████   99.87 % 
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 </div>
