@@ -95,7 +95,8 @@ I pay attention to Accessibility, Best Practices User-friendliness, Performance 
 <!--START_SECTION:waka-->
 
 ```text
-Bash   3 mins          █████████████████████████   100.00 %
+JavaScript   2 hrs           █████████░░░░░░░░░░░░░░░░   36.32 %
+Other        1 hr 42 mins    ███████▓░░░░░░░░░░░░░░░░░   30.87 %
 ```
 
 <!--END_SECTION:waka-->
