@@ -72,7 +72,6 @@ I pay attention to Accessibility, Best Practices User-friendliness, Performance 
 **In-view:**
 
   <div  align='left'>
-   
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
     <img src="https://avatars.githubusercontent.com/u/44036562?s=400&v=4" alt="git actions" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
     <img src="https://i.pinimg.com/originals/28/ec/74/28ec7440a57536eebad2931517aa1cce.png" alt="terraform" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
