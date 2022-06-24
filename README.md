@@ -49,8 +49,8 @@ I pay attention to Accessibility, Best Practices User-friendliness, Performance 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
     <img src="https://material-ui.com/static/logo.png" alt="material-ui" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/1200px-Neovim-mark.svg.png" alt="neovim" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
     <img src="https://avatars.githubusercontent.com/u/44036562?s=400&v=4" alt="git actions" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/1200px-Neovim-mark.svg.png" alt="neovim" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
     <img src="https://img.icons8.com/color/240/000000/redux.png" alt="redux" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
