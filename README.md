@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Oduwole Dare
+### Hi 👋, I'm Oduwole Dare
 
 <div>
   <a href="https://dreywesson.netlify.app">
