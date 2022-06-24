@@ -65,13 +65,14 @@ I pay attention to Accessibility, Best Practices User-friendliness, Performance 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="stackoverflow" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
     <img src="https://img.icons8.com/ios-glyphs/240/000000/github.png" alt="github" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
     <img src="https://cdn.worldvectorlogo.com/logos/json.svg" alt="json" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
   </div>
   <div>
 
 **In-view:**
 
   <div  align='left'>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
+   
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
     <img src="https://avatars.githubusercontent.com/u/44036562?s=400&v=4" alt="git actions" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
     <img src="https://i.pinimg.com/originals/28/ec/74/28ec7440a57536eebad2931517aa1cce.png" alt="terraform" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
