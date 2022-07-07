@@ -46,7 +46,7 @@ I pay attention to Accessibility, Best Practices User-friendliness, Performance 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
     <img src="https://iconape.com/wp-content/png_logo_vector/typescript.png" alt="typescript" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
     <img src="https://cdn.iconscout.com/icon/free/png-512/webpack-1-1174980.png" alt="webpack" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
-    <img src="https://www.britefish.net/wp-content/uploads/2019/07/logo-c-1.png" alt="clang" width="35" height="25" style="padding-bottom:7px; margin-right:5px"/>
+    <img src="https://www.britefish.net/wp-content/uploads/2019/07/logo-c-1.png" alt="clang" width="35" style="padding-bottom:7px; margin-right:5px"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
     <img src="https://material-ui.com/static/logo.png" alt="material-ui" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
