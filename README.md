@@ -19,7 +19,7 @@
 <br />
 
 <p>
-  I am a self-taught Software Engineer, that's passionate about technologies that makes the world a better place. Also, I'm very open to learning new interesting things.
+  I am a self-taught Software Engineer, that's passionate about technologies that makes the world a better place. Also, I'm open to learning new technologies and other interesting things.
 
 I pay attention to Responsiveness, Accessibility, Performance, Best Practices, and User-friendliness of websites.
 
