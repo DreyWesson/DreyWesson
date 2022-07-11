@@ -19,10 +19,7 @@
 <br />
 
 <p>
-  I am a self-taught Software Engineer passionate about technologies that make the world a better place. Also, I'm open to learning new technologies and other interesting things.
-
-I pay attention to the Responsiveness, Accessibility, Performance, Best Practices, and user-friendliness websites.
-
+  I am a self-taught Software Engineer passionate about technologies that make the world a better place. What gets me outta bed is the joy of solving new problems. I'm always open to learning new technologies and other interesting things.
 </p>
 
 <div class="stacks">
