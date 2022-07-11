@@ -97,10 +97,10 @@ I pay attention to the Responsiveness, Accessibility, Performance, Best Practice
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   20 hrs 26 mins  ████████████████████████▓   99.19 %
-JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+JavaScript   20 hrs 26 mins  █████████████████████████   99.39 %
 HTML         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
