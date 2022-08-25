@@ -90,7 +90,12 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dreywesson&show_icons=true&theme=dark)
 
 </div>
-
+  
+<div style="margin-right: 15px margin-bottom: 3rem">
+  
+  ![](https://leetcard.jacoblin.cool/dreywesson?ext=activity)
+  
+</div>
 <!--START_SECTION:waka-->
 
 ```text
