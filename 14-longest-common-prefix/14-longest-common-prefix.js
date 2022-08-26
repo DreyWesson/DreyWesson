@@ -13,16 +13,14 @@ function compareTwoStr(str1, str2) {
 }
 
 var longestCommonPrefix = function (str) {
-      if (str.length === 1) return str[0];
-
-  let tail = 0;
-  let result = "";
-  for (let head = 1; head < str.length; head++) {
-    result = compareTwoStr(str[tail], str[head]);
-          if (!result) return "";
-    str[head] = result;
-
-    tail++;
-  }
-  return result;
+    if (str.length === 1) return str[0];
+    let tail = 0;
+    let result = "";
+    for (let head = 1; head < str.length; head++) {
+        result = compareTwoStr(str[tail], str[head]);
+              if (!result) break;
+        str[head] = result;
+        tail++;
+    }
+    return result;
 };
