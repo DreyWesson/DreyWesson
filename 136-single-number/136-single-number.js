@@ -8,9 +8,6 @@ var singleNumber = function(nums) {
         if (memo[nums[i]]) memo[nums[i]]++;
         else memo[nums[i]] = 1;
     }
-    for (const key in memo){
-        if (memo[key] > 1) delete memo[key]
-        else  return key
-    }
-    
+    for (const key in memo)
+        if (memo[key] === 1) return key;
 };
