@@ -31,7 +31,6 @@ int myAtoi(char * str){
 	    if (nbr > min && is_neg > 0) return (-min);
 		i++;
 	}
-
 	if (is_neg > 0) return (-nbr);
 	return (nbr);
 }
