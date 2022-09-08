@@ -17,7 +17,6 @@ int myAtoi(char * str){
 	while (str[i] != '\0' && (!(str[i] >= '0' && str[i] <= '9')))
 	{
 		if ((is_pos > 0 || is_neg > 0) && !(str[i] >= '0' && str[i] <= '9')) return 0;
-        
 		if (str[i] == 45)is_neg += 1;
 		else if (str[i] == 43)  is_pos += 1;
 		else if (str[i] == 32) {}
