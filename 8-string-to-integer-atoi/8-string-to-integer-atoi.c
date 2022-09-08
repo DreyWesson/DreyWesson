@@ -1,12 +1,12 @@
 
 
 int myAtoi(char * str){
-	long long	i;
-	long long	nbr;
+	long	i;
+	long	nbr;
 	int		is_neg;
 	int 	is_pos;
-	long long		max;
-	long long		min;
+	long		max;
+	long		min;
 
 	i = 0;
 	nbr = 0;
