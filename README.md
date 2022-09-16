@@ -99,8 +99,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-C            2 hrs           ████████████████▓░░░░░░░░   66.33 %
-JavaScript   1 hr 1 min      ████████▒░░░░░░░░░░░░░░░░   33.67 %
+JavaScript   1 hr 11 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
