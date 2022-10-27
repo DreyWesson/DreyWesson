@@ -19,7 +19,7 @@
 <br />
 
 <p>
-  I'm a Software Developer passionate about technologies that make the world a better place. What gets me outta bed is the thrill of solving new problems. I'm always open to learning new technologies and other interesting things, and keep up with the ever-evolving software development processes.
+  I'm a minimalist, result-oriented and passionate about technologies that matter. What gets me outta bed is the thrill of solving new problems. I'm always open to learning new technologies and other interesting things, and keep up with the ever-evolving software development processes.
 </p>
 
 <div class="stacks">
