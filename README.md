@@ -7,7 +7,7 @@
   <a href="https://twitter.com/DreyWesson">
     <img align="left" alt="Oduwole Dare | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="margin-right:10px;"/>
   </a> 
-  <a href="https://www.linkedin.com/in/dare-oduwole73176/">
+  <a href="https://www.linkedin.com/in/dareoduwole/">
     <img align="left" alt="Oduwole's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="margin-right:10px"/>
   </a>
   <a href="mailto:dreywesson@gmail.com">
