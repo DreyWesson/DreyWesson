@@ -88,6 +88,7 @@
 <div style="margin-right: 15px margin-bottom: 3rem">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dreywesson&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dreywesson&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
   
