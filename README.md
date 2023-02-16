@@ -1,5 +1,4 @@
 ### Hi 👋, I'm Dare Oduwole
-
 <div>
   <a href="https://dreywesson.netlify.app">
     <img align="left" alt="portfolio" width="22px" src="https://user-images.githubusercontent.com/50960013/127302754-ca427b8b-9c64-4cf3-b7a1-1a8ca6d10bc6.png" style="margin-right:10px; background-color: white;"/>
@@ -14,32 +13,24 @@
     <img align="left" alt="Oduwole's gmail" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" style="margin-right:10px"/>
   </a>
 </div>
-
-<br />
-<br />
-
+<br/>
 <p>
-  I'm a minimalist, result-oriented and passionate about technologies that matter. What gets me outta bed is the thrill of solving new problems. I'm always open to learning new technologies and other interesting things to keep up with the ever-evolving software development processes.
+  <div style="margin-top: -100px;">
+  <img align="left"  alt="GIF" src="https://user-images.githubusercontent.com/50960013/127277181-3871659d-6d90-409e-b6a9-b8279a391430.gif" width="250" style="border-radius: 25px;" height="auto" loop=infinite  />
+  </div>
+  <div style="margin-top: -100px; padding-left: 1rem;">
+    I'm a minimalist, result-oriented and passionate about technologies that matter. What gets me outta bed is the thrill of solving new problems. I'm always open to learning new technologies and other interesting things to keep up with the ever-evolving software development processes.
+    <br/>🎉 Fun facts: 
+    <br/>🕊 I'm a minimalist 
+    <br/>🚴🏽 I love walkable cities.
+    <br/>🏝 I love nature
+    <br/>🇳🇴 Favourite country is Norway
+   </div>
 </p>
-
-<div class="stacks">
-  <img align="left"  alt="GIF" src="https://user-images.githubusercontent.com/50960013/127277181-3871659d-6d90-409e-b6a9-b8279a391430.gif" width="250" style='border-radius: 25px; margin-bottom: .5rem' height="auto" loop=infinite  />
-
-<p style="margin-bottom: 3rem">
-🎉 Fun facts: 
-<br/>🕊 I'm a minimalist 
-<br/>🚴🏽 I love walkable cities.
-<br/>🏝 I love nature
-<br/>🇳🇴 Favourite country is Norway
-</p>
-</div>
-
-<div  >
 <br/>
 
 **Languages and Tools:**
-
-  <div align="right"  style="display: flex; flex-wrap: wrap; min-width:300px;">
+<div align="left"  style="display: flex; flex-wrap: wrap;m min-width:300px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
     <img src="https://iconape.com/wp-content/png_logo_vector/typescript.png" alt="typescript" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
     <img src="https://www.britefish.net/wp-content/uploads/2019/07/logo-c-1.png" alt="clang" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
@@ -67,7 +58,6 @@
     <img src="https://img.icons8.com/ios-glyphs/240/000000/github.png" alt="github" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
     <img src="https://cdn.worldvectorlogo.com/logos/json.svg" alt="json" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
   </div>
-  <div>
 
 **In-view:**
 
@@ -80,24 +70,24 @@
     <img src="https://pngimg.com/uploads/linux/linux_PNG1.png" alt="json" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
     <!-- Graphql, nextjs, styled-component -->
   </div>
-  </div>
-
-</div>
-</div>
+  
 <div class='metrics'>
-<div style="margin-right: 15px margin-bottom: 3rem">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dreywesson&show_icons=true&theme=dark)
+<div style="display:flex">
+  <div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dreywesson&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dreywesson&show_icons=true&theme=dark)
 
+  </div>
+  <div>
+
+![](https://leetcard.jacoblin.cool/dreywesson?ext=activity)
+
+  </div>
 </div>
-  
-<div style="margin-right: 15px margin-bottom: 3rem">
-  
-  ![](https://leetcard.jacoblin.cool/dreywesson?ext=activity)
-  
-</div>
+
 <!--START_SECTION:waka-->
 
 ```text
