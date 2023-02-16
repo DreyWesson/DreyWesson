@@ -114,7 +114,8 @@ Other        2 mins          ░░░░░░░░░░░░░░░░░
 
 
 # 42 Holly Graph
-![holy_graph]([https://drive.google.com/file/d/1HnAOXsr92IhLXGv9r15rnbaHHURdKvJ4/view?usp=share_link](https://user-images.githubusercontent.com/50960013/219389791-823e3c90-e41a-41b2-ab9b-e5586fcefbe6.png))
+
+<img alt="holy_graph" src="https://user-images.githubusercontent.com/50960013/219389791-823e3c90-e41a-41b2-ab9b-e5586fcefbe6.png" />
 
 </br>
 
