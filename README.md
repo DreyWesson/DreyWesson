@@ -51,7 +51,9 @@
 <br/>
 
 **Articles:**
-[42 Minitalk explained](https://github.com/DreyWesson/42_core/tree/main/libft)
+[42 Minitalk explained](https://medium.com/@oduwoledare/42-minitalk-explained-5b236adc2c24),
+[42 Push swap explained](https://medium.com/@oduwoledare/42-push-swap-explained-psuedocodes-ba8108339556)
+<br />
   
 <div style="display:flex">
   <div>
