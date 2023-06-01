@@ -49,6 +49,9 @@
   <!-- Graphql, nextjs, styled-component -->
 </div>
 <br/>
+
+**Articles:**
+[42 Minitalk explained](https://github.com/DreyWesson/42_core/tree/main/libft)
   
 <div style="display:flex">
   <div>
