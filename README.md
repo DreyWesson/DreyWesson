@@ -73,10 +73,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C          1 hr 33 mins    █████████████▒░░░░░░░░░░░   53.21 %
-Makefile   53 mins         ███████▓░░░░░░░░░░░░░░░░░   30.46 %
-Bash       28 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.32 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
