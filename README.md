@@ -7,7 +7,7 @@
     <img align="left" alt="Oduwole Dare | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="margin-right:10px;"/>
   </a> 
   <a href="https://www.linkedin.com/in/dareoduwole/">
-    <img align="left" alt="Oduwole's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="margin-right:10px"/>
+    <img align="left" alt="Oduwole's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="margin-right:10px"/>
   </a>
   <a href="mailto:oduwole.dare.em@gmail.com">
     <img align="left" alt="Oduwole's gmail" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" style="margin-right:10px"/>
@@ -19,7 +19,7 @@
   <img align="left"  alt="GIF" src="https://user-images.githubusercontent.com/50960013/127277181-3871659d-6d90-409e-b6a9-b8279a391430.gif" width="250" style="border-radius: 25px;" height="auto" loop=infinite  />
   </div>
   <div style="align: right; margin-top: -100px; padding-left: 1rem;">
-    I'm a minimalist, result-oriented and passionate about technologies that matter. What gets me outta bed is the thrill of solving new problems. I'm always open to learning new technologies and other interesting things to keep up with the ever-evolving software development processes.
+    I'm a minimalist, result-oriented, and passionate about technologies that matter. What gets me outta bed is the thrill of solving new problems. I'm always open to learning new technologies and other interesting things to keep up with the ever-evolving software development processes.
     <br/>🎉 Fun facts: 
     <br/>🕊 I'm a minimalist 
     <br/>🚴🏽 I love walkable cities.
@@ -96,8 +96,8 @@ Markdown   1 min           ░░░░░░░░░░░░░░░░░�
 |**[ft_printf 💯](https://github.com/DreyWesson/42_core/tree/main/ft_printf)**|C|Rigor, Algorithms & AI|Reproduce basic functioning of `prinft` function (flags implemented: `%c`, `%s`, `%i`, `%d`, `%u`, `%x`, `%X`, `%p`, `%%`)|70|
 |**[get_next_line ✅](https://github.com/DreyWesson/42_core/tree/main/get_next_ln)**|C|Rigor, Unix, Algorithms & AI|Write a function which returns a line read from a file descriptor (bonus: multiple file descriptors without losing the reading thread on each of them)|70|
 |**[born2beroot ✅](https://github.com/DreyWesson/42_core/)**|SysAdmin|Rigor, Network & system administration|Create a virtual machine under specific instructions. Setting a minimal Debian server implementing strict rules, e.g. strong password policy, UFW firewall, SSH, etc. In the repo there's only a Bash script that had to be broadcasted to all users every 10 minutes using crontab and wall|40|
-|**[minitalk ✅](https://github.com/DreyWesson/42_core/)**|C|Rigor, Unix|Code a small data exchange program using UNIX signals (`SIGUSR1` and `SIGUSR2`) and bitwise operations. A string is passed as a parameter to the client, converted into binary, and sent to the server in form of signals (either `0` or `1`), where the string is reconstructed and outputted.|50|
-|**[push_swap ✅](https://github.com/DreyWesson/42_core/p)**|C|Sorting algorithms, Battery concept and handling elements, Algorithm implementation,Rigor, Unix, Imperative programming, Algorithms & AI|Given an array of random integers, two stacks, and a limited set of moves (e.g. rotate entire stack up or down), write to the console the smallest number of instructions required to sort the array.|60|
-|**[so_long ✅](https://github.com/DreyWesson/42_core/)**|C|Graphics, Imperative programming, Applicative|Create a small 2D game using the miniLibX API. Goal of the game is to leave the map in the shortest amount of moves after collecting all objects.|60|
+|**[minitalk ✅](https://github.com/DreyWesson/42_core/)**|C|Rigor, Unix|Code a small data exchange program using UNIX signals (`SIGUSR1` and `SIGUSR2`) and bitwise operations. A string is passed as a parameter to the client, converted into binary, and sent to the server in the form of signals (either `0` or `1`), where the string is reconstructed and outputted.|50|
+|**[push_swap ✅](https://github.com/DreyWesson/42_core/p)**|C|Sorting algorithms, Battery concept and handling elements, Algorithm implementation, Rigor, Unix, Imperative programming, Algorithms & AI|Given an array of random integers, two stacks, and a limited set of moves (e.g. rotate entire stack up or down), write to the console the smallest number of instructions required to sort the array.|60|
+|**[so_long ✅](https://github.com/DreyWesson/42_core/)**|C|Graphics, Imperative programming, Applicative|Create a small 2D game using the miniLibX API. The game's goal is to leave the map in the shortest amount of moves after collecting all objects.|60|
 |**[minishell ✅](https://github.com/DreyWesson/42_core/)**|C|Unix, Imperative programming, Rigor|Recreate a small Bash-inspired shell for UNIX.
 |**[philosophers](https://github.com/DreyWesson/42_core/)**|C|Unix, Imperative programming, Rigor|42's take on the classic [Dining philosophers problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem) using threads and mutexes.|70|
