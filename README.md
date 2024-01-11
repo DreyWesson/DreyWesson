@@ -73,11 +73,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C++        1 hr 19 mins    ████████████████▓░░░░░░░░   66.77 %
-Text       34 mins         ███████▒░░░░░░░░░░░░░░░░░   29.03 %
-Bash       4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
-Python     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
