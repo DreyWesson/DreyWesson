@@ -19,7 +19,8 @@
   <img align="left"  alt="GIF" src="https://user-images.githubusercontent.com/50960013/127277181-3871659d-6d90-409e-b6a9-b8279a391430.gif" width="250" style="border-radius: 25px;" height="auto" loop=infinite  />
   </div>
   <div style="align: right; margin-top: -100px; padding-left: 1rem; margin-left: 1rem;">
-    I'm a software developer that enjoy working on Linux and play around with new technologies - "looking under the hood". What gets me outta bed is the thrill of solving new problems. I'm always open to learning new technologies and other interesting things to keep up with the ever-evolving software development processes.
+    I'm a software developer with a bit of a Linux obsession—I just love diving into the nitty-gritty of how things work under the hood. There's something about the command line and the open-source community that gets me excited to start my day.
+What really gets me going is the thrill of solving fresh problems. Whether it's untangling a tricky bug or optimizing code for performance, I'm always up for the challenge. The satisfaction of cracking a tough nut and making software run smoother is what keeps me hooked on this profession.
     <br/>🎉 Fun facts: 
     <br/>🕊 I'm a minimalist 
     <br/>🚴🏽 I love walkable cities.
