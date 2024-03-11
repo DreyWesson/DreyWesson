@@ -74,10 +74,10 @@ What really gets me going is the thrill of solving fresh problems. Whether it's 
 <!--START_SECTION:waka-->
 
 ```txt
-C++                        5 hrs 47 mins   ██████████████████▒░░░░░░   73.06 %
-Other                      1 hr 45 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.25 %
-Nginx configuration file   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
-Bash                       10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+C++                        7 hrs 23 mins   ███████████████████░░░░░░   76.17 %
+Other                      1 hr 56 mins    █████░░░░░░░░░░░░░░░░░░░░   19.99 %
+Nginx configuration file   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+Bash                       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
 ```
 
 <!--END_SECTION:waka-->
