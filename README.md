@@ -74,11 +74,11 @@ What really gets me going is the thrill of solving fresh problems. Whether it's 
 <!--START_SECTION:waka-->
 
 ```txt
-C++          13 hrs          █████████████░░░░░░░░░░░░   52.28 %
-JavaScript   7 hrs 1 min     ███████░░░░░░░░░░░░░░░░░░   28.23 %
-HTML         3 hrs 59 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.05 %
-CSS          45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+JavaScript   8 hrs 34 mins   ████████████░░░░░░░░░░░░░   48.09 %
+HTML         4 hrs 28 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.10 %
+C++          3 hrs 22 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.97 %
+CSS          1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
+Markdown     20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
 ```
 
 <!--END_SECTION:waka-->
