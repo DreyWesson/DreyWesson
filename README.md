@@ -3,8 +3,8 @@
   <a href="https://dreywesson.netlify.app">
     <img align="left" alt="portfolio" width="22px" src="https://user-images.githubusercontent.com/50960013/127302754-ca427b8b-9c64-4cf3-b7a1-1a8ca6d10bc6.png" style="margin-right:10px; background-color: white;"/>
   </a>
-  <a href="https://twitter.com/DreyWesson">
-    <img align="left" alt="Oduwole Dare | Twitter" width="22px" src="https://seeklogo.com/images/T/twitter-x-logo-101C7D2420-seeklogo.com.png?v=638258862800000000" style="margin-right:10px;"/>
+  <a href="https://medium.com/@oduwoledare">
+    <img align="left" alt="Oduwole Dare | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Medium_Logo.webp" style="margin-right:10px;"/>
   </a> 
   <a href="https://www.linkedin.com/in/dareoduwole/">
     <img align="left" alt="Oduwole's LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/768px-LinkedIn_icon.svg.png" style="margin-right:10px"/>
