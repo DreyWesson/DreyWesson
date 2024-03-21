@@ -92,8 +92,8 @@ CSS          15 mins         ▓░░░░░░░░░░░░░░░░
 </br>
 
 ## My 42 Project Table
-|Name|Language|Skills|Description|Estimated effort (h)|
-|----|--------|------|-----------|--------------------|
+|    Name   |Language|Skills|Description|Estimated effort (h)|
+|-----------|--------|------|-----------|--------------------|
 |**[libft ✅](https://github.com/DreyWesson/42_core/tree/main/libft)**|C|Rigor, Imperative programming, Algorithms & AI|Re-code useful C functions like `split` or `join` using only `malloc`, `free`, and `write`|70|
 |**[ft_printf 💯](https://github.com/DreyWesson/42_core/tree/main/ft_printf)**|C|Rigor, Algorithms & AI|Reproduce basic functioning of `prinft` function (flags implemented: `%c`, `%s`, `%i`, `%d`, `%u`, `%x`, `%X`, `%p`, `%%`)|70|
 |**[get_next_line ✅](https://github.com/DreyWesson/42_core/tree/main/get_next_ln)**|C|Rigor, Unix, Algorithms & AI|Write a function which returns a line read from a file descriptor (bonus: multiple file descriptors without losing the reading thread on each of them)|70|
