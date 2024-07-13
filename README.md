@@ -84,8 +84,8 @@
 
 **About Me:**
 <p>
-  I'm a software developer with a bit of a Linux obsession—I just love diving into the nitty-gritty of how things work under the hood. There's something about the command line and the open-source community that gets me excited to start my day.
-  What really gets me going is the thrill of solving fresh problems. Whether it's untangling a tricky bug or optimizing code for performance, I'm always up for the challenge. The satisfaction of cracking a tough nut and making software run smoother is what keeps me hooked on this profession.
+  I'm a software developer with a bit of Linux obsession — I love diving into the nitty-gritty of how things work under the hood. Something about the command line and the open-source community excites me to start my day.
+  What gets me going is the thrill of solving fresh problems. Whether it's untangling a tricky bug or optimizing code for performance, I'm always up for the challenge. The satisfaction of cracking a tough nut and making software run smoother keeps me hooked on this profession.
 </p>
 
 <br />
@@ -108,24 +108,3 @@ YAML         0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-
-
-# 42 Holly Graph
-
-<img alt="holy_graph" src="https://user-images.githubusercontent.com/50960013/219389791-823e3c90-e41a-41b2-ab9b-e5586fcefbe6.png" />
-
-</br>
-
-## My 42 Project Table
-|    Name   |Language|Skills|Description|Estimated effort (h)|
-|-----------|--------|------|-----------|--------------------|
-|**[libft ✅](https://github.com/DreyWesson/42_core/tree/main/libft)**|C|Rigor, Imperative programming, Algorithms & AI|Re-code useful C functions like `split` or `join` using only `malloc`, `free`, and `write`|70|
-|**[ft_printf 💯](https://github.com/DreyWesson/42_core/tree/main/ft_printf)**|C|Rigor, Algorithms & AI|Reproduce basic functioning of `prinft` function (flags implemented: `%c`, `%s`, `%i`, `%d`, `%u`, `%x`, `%X`, `%p`, `%%`)|70|
-|**[get_next_line ✅](https://github.com/DreyWesson/42_core/tree/main/get_next_ln)**|C|Rigor, Unix, Algorithms & AI|Write a function which returns a line read from a file descriptor (bonus: multiple file descriptors without losing the reading thread on each of them)|70|
-|**[born2beroot ✅](https://github.com/DreyWesson/42_core/)**|SysAdmin|Rigor, Network & system administration|Create a virtual machine under specific instructions. Setting a minimal Debian server implementing strict rules, e.g. strong password policy, UFW firewall, SSH, etc. In the repo there's only a Bash script that had to be broadcasted to all users every 10 minutes using crontab and wall|40|
-|**[minitalk ✅](https://github.com/DreyWesson/42_core/)**|C|Rigor, Unix|Code a small data exchange program using UNIX signals (`SIGUSR1` and `SIGUSR2`) and bitwise operations. A string is passed as a parameter to the client, converted into binary, and sent to the server in the form of signals (either `0` or `1`), where the string is reconstructed and outputted.|50|
-|**[push_swap ✅](https://github.com/DreyWesson/42_core/p)**|C|Sorting algorithms, Battery concept and handling elements, Algorithm implementation, Rigor, Unix, Imperative programming, Algorithms & AI|Given an array of random integers, two stacks, and a limited set of moves (e.g. rotate entire stack up or down), write to the console the smallest number of instructions required to sort the array.|60|
-|**[so_long ✅](https://github.com/DreyWesson/42_core/)**|C|Graphics, Imperative programming, Applicative|Create a small 2D game using the miniLibX API. The game's goal is to leave the map in the shortest amount of moves after collecting all objects.|60|
-|**[minishell ✅](https://github.com/DreyWesson/42_core/)**|C|Unix, Imperative programming, Rigor|Recreate a small Bash-inspired shell for UNIX.
-|**[philosophers](https://github.com/DreyWesson/42_core/)**|C|Unix, Imperative programming, Rigor|42's take on the classic [Dining philosophers problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem) using threads and mutexes.|70|
