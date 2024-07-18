@@ -1,48 +1,53 @@
 ### Hi 👋, I'm Dare Oduwole
-<img 
-  alt="GIF"
-  src="https://user-images.githubusercontent.com/50960013/127277181-3871659d-6d90-409e-b6a9-b8279a391430.gif" width="250"
-  style="border-radius: 25px;"
-  height="auto"
-/> 
+<div style="display: flex; align-items: center;">
 
-<div>
-  <a href="https://dreywesson.netlify.app">
-    <img 
-      align="left"
-      alt="portfolio"
-      width="22px"
-      src="https://user-images.githubusercontent.com/50960013/127302754-ca427b8b-9c64-4cf3-b7a1-1a8ca6d10bc6.png"
-      style="margin-right:10px; background-color: white;"
-    />
-  </a>
-  <a href="https://medium.com/@oduwoledare">
-    <img 
-      align="left"
-      alt="Oduwole Dare | Twitter"
-      width="22px"
-      src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Medium_Logo.webp"
-      style="margin-right:10px;"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/dareoduwole/">
-    <img
-      align="left" 
-      alt="Oduwole's LinkedIn"
-      width="22px"
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/768px-LinkedIn_icon.svg.png"
-      style="margin-right:10px"
-    />
-  </a>
-  <a href="mailto:oduwole.dare.em@gmail.com">
-    <img
-      align="left"
-      alt="Oduwole's gmail" 
-      width="25px"
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png"
-      style="margin-right:10px"
-    />
-  </a>
+  <img 
+    alt="GIF"
+    src="https://user-images.githubusercontent.com/50960013/127277181-3871659d-6d90-409e-b6a9-b8279a391430.gif" 
+    width="250"
+    style="border-radius: 25px; margin-right: 20px;"
+    height="auto"
+  /> 
+
+  <div>
+    <a href="https://dreywesson.netlify.app">
+      <img 
+        align="left"
+        alt="portfolio"
+        width="22px"
+        src="https://user-images.githubusercontent.com/50960013/127302754-ca427b8b-9c64-4cf3-b7a1-1a8ca6d10bc6.png"
+        style="margin-right:10px; background-color: white;"
+      />
+    </a>
+    <a href="https://medium.com/@oduwoledare">
+      <img 
+        align="left"
+        alt="Oduwole Dare | Medium"
+        width="22px"
+        src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Medium_Logo.webp"
+        style="margin-right:10px;"
+      />
+    </a>
+    <a href="https://www.linkedin.com/in/dareoduwole/">
+      <img
+        align="left" 
+        alt="Oduwole's LinkedIn"
+        width="22px"
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/768px-LinkedIn_icon.svg.png"
+        style="margin-right:10px"
+      />
+    </a>
+    <a href="mailto:oduwole.dare.em@gmail.com">
+      <img
+        align="left"
+        alt="Oduwole's gmail" 
+        width="25px"
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png"
+        style="margin-right:10px"
+      />
+    </a>
+  </div>
+  
 </div>
 
 <br/>
@@ -63,24 +68,8 @@
 
 **Skills:**
 
-<div style="display: flex; flex-wrap: wrap;m min-width:300px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="35" height="30" style="padding-bottom:7px; margin-right:5px"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
-    <img src="https://iconape.com/wp-content/png_logo_vector/typescript.png" alt="typescript" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
-    <img src="https://www.britefish.net/wp-content/uploads/2019/07/logo-c-1.png" alt="clang" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
-    <img src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" alt="html" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
-    <img src="http://svgur.com/i/3m.svg" alt="yaml" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Octicons-terminal.svg" alt="iTerm" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
-    <img src="https://cdn.iconscout.com/icon/free/png-512/webpack-1-1174980.png" alt="webpack" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
-    <img src="https://img.icons8.com/color/240/000000/redux.png" alt="redux" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
-    <img src="https://img.icons8.com/color/240/000000/git.png" alt="git" width="25" height="25" style="padding-bottom:7px; margin-right:5px"/>
-</div>
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Cypress](https://img.shields.io/badge/cypress-%2317202C.svg?style=plastic&logo=cypress&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Travis CI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=plastic&logo=travis&logoColor=white) ![CircleCI](https://img.shields.io/badge/circleci-%23000000.svg?style=plastic&logo=circleci&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=plastic&logo=ansible&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)  ![SQL](https://img.shields.io/badge/sql-%230066CC.svg?style=plastic&logo=amazon-dynamodb&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232088FF.svg?style=plastic&logo=githubactions&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white) ![Swagger](https://img.shields.io/badge/swagger-%2385EA2D.svg?style=plastic&logo=swagger&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![NoSQL](https://img.shields.io/badge/nosql-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=plastic&logo=git&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Prometheus](https://img.shields.io/badge/prometheus-%23E6522C.svg?style=plastic&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=plastic&logo=grafana&logoColor=white)
 
-<br />
 
 **About Me:**
 <p>
@@ -89,11 +78,6 @@
 </p>
 
 <br />
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dreywesson&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dreywesson&show_icons=true&theme=dark)
 
 ![](https://leetcard.jacoblin.cool/dreywesson?ext=activity)
   
