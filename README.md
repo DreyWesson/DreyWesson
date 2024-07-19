@@ -73,7 +73,7 @@
 
 **About Me:**
 <p>
-  I'm a software developer with a bit of Linux obsession — I love diving into the nitty-gritty of how things work under the hood. Something about the command line and the open-source community excites me to start my day.
+  A software developer with a bit of Linux obsession — I love diving into the nitty-gritty of how things work under the hood. Something about the command line and the open-source community excites me to start my day.
   What gets me going is the thrill of solving fresh problems. Whether it's untangling a tricky bug or optimizing code for performance, I'm always up for the challenge. The satisfaction of cracking a tough nut and making software run smoother keeps me hooked on this profession.
 </p>
 
