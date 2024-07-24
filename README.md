@@ -77,11 +77,6 @@
   What gets me going is the thrill of solving fresh problems. Whether it's untangling a tricky bug or optimizing code for performance, I'm always up for the challenge. The satisfaction of cracking a tough nut and making software run smoother keeps me hooked on this profession.
 </p>
 
-<br />
-
-![](https://leetcard.jacoblin.cool/dreywesson?ext=activity)
-  
-
 <!--START_SECTION:waka-->
 
 ```txt
@@ -93,3 +88,6 @@ Text         2 hrs 27 mins   █▓░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+
+![](https://leetcard.jacoblin.cool/dreywesson?ext=activity)
