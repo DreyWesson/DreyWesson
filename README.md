@@ -54,7 +54,8 @@
 <br/>
 
 **Articles:**
-
+[Server Side Story: Creating a Multi-Client TCP Server in C with Select](https://medium.com/@oduwoledare/server-side-story-creating-a-multi-client-tcp-server-with-c-and-select-3692db1a8ca3)
+<br/>
 [Heredoc: A Deep Dive](https://medium.com/@oduwoledare/heredoc-a-deep-dive-23c82992e522)
 <br />
 [Neovim for 42 Students](https://medium.com/@oduwoledare/neovim-for-42-students-56bf0815a92a)
