@@ -54,7 +54,7 @@
 <br/>
 
 **Articles:**
-[Server Side Story: Creating a Multi-Client TCP Server in C with Select](https://medium.com/@oduwoledare/server-side-story-creating-a-multi-client-tcp-server-with-c-and-select-3692db1a8ca3)
+<br/> [Server Side Story: Creating a Multi-Client TCP Server in C with Select](https://medium.com/@oduwoledare/server-side-story-creating-a-multi-client-tcp-server-with-c-and-select-3692db1a8ca3)
 <br/>
 [Heredoc: A Deep Dive](https://medium.com/@oduwoledare/heredoc-a-deep-dive-23c82992e522)
 <br />
