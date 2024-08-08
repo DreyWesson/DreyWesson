@@ -54,17 +54,12 @@
 <br/>
 
 **Articles:**
-<br/> [Server Side Story: Creating a Multi-Client TCP Server in C with Select](https://medium.com/@oduwoledare/server-side-story-creating-a-multi-client-tcp-server-with-c-and-select-3692db1a8ca3)
-<br/>
-[Heredoc: A Deep Dive](https://medium.com/@oduwoledare/heredoc-a-deep-dive-23c82992e522)
-<br />
-[Neovim for 42 Students](https://medium.com/@oduwoledare/neovim-for-42-students-56bf0815a92a)
-<br />
-[42 Minitalk Explained](https://medium.com/@oduwoledare/42-minitalk-explained-5b236adc2c24)
-<br />
-[42 PushSwap Explained](https://medium.com/@oduwoledare/42-push-swap-explained-psuedocodes-ba8108339556)
-<br />
-[Compilation Process in C](https://medium.com/@oduwoledare/compilation-process-in-c-2c8708bd4b95)
+<br /> [Heredoc: A Deep Dive](https://medium.com/@oduwoledare/heredoc-a-deep-dive-23c82992e522)
+<br /> [Neovim for 42 Students](https://medium.com/@oduwoledare/neovim-for-42-students-56bf0815a92a)
+<br /> [42 Minitalk Explained](https://medium.com/@oduwoledare/42-minitalk-explained-5b236adc2c24)
+<br /> [42 PushSwap Explained](https://medium.com/@oduwoledare/42-push-swap-explained-psuedocodes-ba8108339556)
+<br /> [Compilation Process in C](https://medium.com/@oduwoledare/compilation-process-in-c-2c8708bd4b95)
+<br /> [Server Side Story: Creating a Multi-Client TCP Server in C with Select](https://medium.com/@oduwoledare/server-side-story-creating-a-multi-client-tcp-server-with-c-and-select-3692db1a8ca3)
 
 
 **Skills:**
