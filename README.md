@@ -102,7 +102,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+HTML   10 mins         █████████████████████▓░░░   87.15 %
+Gosu   1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   12.85 %
 ```
 
 <!--END_SECTION:waka-->
