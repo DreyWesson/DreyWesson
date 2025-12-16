@@ -10,7 +10,7 @@
   /> 
 
   <div>
-    <a href="https://dreywesson.netlify.app">
+    <a href="https://oduwoledare.space">
       <img 
         align="left"
         alt="portfolio"
